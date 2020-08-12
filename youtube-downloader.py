@@ -11,6 +11,7 @@ from config import TOKEN
 
 yt = [
     "http://www.youtube.com/",
+    "https://youtube.com",
     "http://youtu.be/",
     "https://youtu.be/",
     "http://s.ytimg.com/",
